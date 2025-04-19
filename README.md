@@ -1,39 +1,38 @@
-# 👋 Hi, I’m Sidharth Kasar
+👋 Hi, I’m Sidharth Kasar
+💻 Full-Stack Developer | Python Enthusiast | Web & AI Developer
+I’m passionate about building scalable full-stack web applications and AI-powered solutions.
 
-### 💻 Full-Stack Developer | MERN Stack | Microservices Enthusiast
+I’m currently exploring Next.js and NestJS for modern full-stack development.
 
--  I’m passionate about developing full-stack web applications and scalable microservices.
--  I’m currently learning Next.js, NestJS, and GraphQL for advanced full-stack solutions.
--  I’m looking to collaborate on real-world full-stack projects using MERN and modern DevOps practices.
-- 📫 Reach me at:  
-  📧 [sidharthkasar4@gmail.com](mailto:sidharthkasar4@gmail.com)  
-  🔗 [linkedin.com/in/sidharth-kasar](https://www.linkedin.com/in/sidharth-kasar/)
+I actively work on Python projects using Django, Flask, and machine learning with Pandas, NumPy, and scikit-learn.
 
----
+I’m looking to collaborate on real-world full-stack and AI/ML projects.
 
-### 🛠️ Tech Stack
+📫 Reach me at:
+📧 sidharthkasar4@gmail.com
+🔗 linkedin.com/in/sidharth-kasar
 
-- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** Node.js, Express.js, NestJS  
-- **Databases:** MongoDB, PostgreSQL  
-- **Cloud & DevOps:** Docker, Docker Compose, AWS SDK, CI/CD pipelines  
-- **APIs:** RESTful APIs, GraphQL APIs  
-- **Other:** Git, Postman, VS Code, Agile Methodologies
+🛠️ Tech Stack
+Frontend: React.js, Next.js, HTML, CSS, JavaScript, Bootstrap
 
----
+Backend: Node.js, Express.js, NestJS, Django, Flask
 
-### 📌 Projects
+Databases: MongoDB, PostgreSQL, MySQL
 
-- **Job Portal** – Django & PostgreSQL-based platform with job listings, user auth, and admin control  
-- **E-Commerce Website** – Complete shopping platform with cart, admin panel, and secure checkout  
-- **Portfolio Website** – Responsive site showcasing skills, projects, and contact form (React & Bootstrap)
+Python Libraries: Pandas, NumPy, scikit-learn
 
----
+APIs: RESTful APIs
 
-### 📈 GitHub Stats
+Tools & Others: Git, Postman, VS Code, Agile Methodologies
 
-![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidharthkasar&show_icons=true&theme=radical)
+📌 Projects
+Job Portal – Django & PostgreSQL-based platform with job listings, user authentication, and admin control
 
+E-Commerce Website – Full-featured shopping platform with cart system, admin panel, and secure checkout
+
+AI Salary Predictor – Python ML model using scikit-learn to predict salaries based on experience and skills
+
+Portfolio Website – Responsive React-based portfolio showcasing skills, projects, and contact form
 
 <!---
 Sidharthkasar/Sidharthkasar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
