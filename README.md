@@ -1,5 +1,7 @@
 👋 Hi, I’m Sidharth Kasar
 💻 Full-Stack Developer | Python Enthusiast | Web & AI Developer
+
+
 I’m passionate about building scalable full-stack web applications and AI-powered solutions.
 
 I’m currently exploring Next.js and NestJS for modern full-stack development.
