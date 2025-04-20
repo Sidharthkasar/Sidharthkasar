@@ -19,7 +19,7 @@ Frontend: React.js, Next.js, HTML, CSS, JavaScript, Bootstrap
 
 Backend: Node.js, Express.js, NestJS, Django, Flask
 
-Databases: MongoDB, PostgreSQL, MySQL
+Databases: MySQL
 
 Python Libraries: Pandas, NumPy, scikit-learn
 
